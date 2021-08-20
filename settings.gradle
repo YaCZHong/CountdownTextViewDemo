@@ -7,5 +7,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "CountdownTextViewDemo"
-include ':app'
+include ':simple'
 include ':CountdownTextView'
