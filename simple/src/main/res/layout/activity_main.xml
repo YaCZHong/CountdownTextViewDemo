@@ -12,6 +12,7 @@
         android:layout_height="48dp"
         android:hint="请输入手机号码"
         android:text="13800138000"
+        android:inputType="phone"
         app:layout_constraintEnd_toStartOf="@id/cdtv"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
