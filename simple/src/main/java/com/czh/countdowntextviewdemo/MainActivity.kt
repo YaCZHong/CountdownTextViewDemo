@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
     private fun initView() {
         cdtv = findViewById(R.id.cdtv)
         et = findViewById(R.id.et)
+
+        // 绑定对应的Edittext
         cdtv.bindEt(et)
         cdtv.setOnClickListener {
             getCode()
