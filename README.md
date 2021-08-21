@@ -4,9 +4,7 @@
 
 ### 演示视频
 
-<iframe height=498 width=510 src="https://github.com/YaCZHong/CountdownTextViewDemo/blob/master/SVID_20210821_134501_1.mp4" frameborder=0 allowfullscreen></iframe>
-
-<iframe src="https://github.com/YaCZHong/CountdownTextViewDemo/blob/master/SVID_20210821_134501_1.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+![video](SVID_20210821_134501_1.mp4)
 
 ## 使用
 
