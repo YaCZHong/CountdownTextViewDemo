@@ -4,11 +4,13 @@
 
 ### 演示视频
 
-![video](SVID_20210821_134501_1.mp4)
+![gif](Video_20210821_030526_802.gif)
 
 ## 使用
 
-**简单的布局，一个输入手机号的 EditText 和我们用于显示倒计时的 CountdownTextView**
+### 1、将 Demo 中的 CountdownTextView 模块引入到项目中，或者直接动手 copy 模块里面的相关文件
+
+### 2、简单的布局，一个输入手机号的 EditText 和我们用于显示倒计时的 CountdownTextView
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -48,7 +50,7 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-**然后在 Activity 当中进行简单的设置**
+### 3、在 Activity 当中进行简单的设置
 
 ```
 class MainActivity : AppCompatActivity() {
